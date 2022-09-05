@@ -1,0 +1,18 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.limitation_of_succession">
+    <application
+        android:allowBackup="true"
+        android:supportsRtl="true">
+
+        <!--
+            Solution: add the android:exported attribute and set it to true or false
+            to every activity or receiver that you may have
+        -->
+        <activity android:name=".MainActivity" android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+</manifest>

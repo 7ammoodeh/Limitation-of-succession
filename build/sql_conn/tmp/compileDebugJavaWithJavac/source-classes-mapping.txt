@@ -1,0 +1,2 @@
+plugin/sqlconn/sql_conn/BuildConfig.java
+ plugin.sqlconn.sql_conn.BuildConfig

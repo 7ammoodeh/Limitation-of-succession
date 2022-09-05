@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/limitation_of_succession/BuildConfig.java
+ com.example.limitation_of_succession.BuildConfig

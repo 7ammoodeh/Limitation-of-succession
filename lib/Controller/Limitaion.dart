@@ -1,0 +1,14 @@
+import 'package:flutter/cupertino.dart';
+final money = TextEditingController();
+final IDnumber = TextEditingController();
+final ID_number = TextEditingController();
+final wife_num = TextEditingController();
+final sons_num = TextEditingController();
+final girls_num = TextEditingController();
+final bro_num = TextEditingController();
+final sis_num = TextEditingController();
+final m_stepbro_num = TextEditingController();
+final f_stepbro_num = TextEditingController();
+final f_stepsis_num = TextEditingController();
+final bro_sons_num = TextEditingController();
+final uncles_num = TextEditingController();
